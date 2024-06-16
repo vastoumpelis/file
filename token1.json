@@ -1,0 +1,27 @@
+{
+  "id": 1,
+  "token_id": "1",
+  "background_color": null,
+  "name": "World of Warcraft Wyvern Mounts",
+  "description": "Wyvern mounts (also known as Wind Riders) are the standard flying mount form of the wyvern for the Horde. They come in a variety of colors, and run on all fours like a cat for land travel.",
+  "image": "https://worldofwarcraft.blizzard.com/nft/mouts/wyverns/wyvern.png",
+  "external_link": "https://worldofwarcraft.blizzard.com/nft/mouts/wyverns",
+  "animation_url": "https://worldofwarcraft.blizzard.com/nft/mouts/wyverns/wyvern.gif",
+  "youtube_url": "https://www.youtube.com/watch?v=SZQvIxSMffA",
+  "attributes": {
+    "traits": [
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Ground Speed",
+        "value": "180%"
+      },
+      {
+        "trait_type": "Flying Speed",
+        "value": "250%"
+      },
+    ]
+  }
+}
